@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30225.117
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RelpardyKepler.Services", "RelpardyKepler\RelpardyKepler.Services\RelpardyKepler.Services.csproj", "{0FF6C72A-DC42-44C6-98D2-552882583952}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RelpardyKepler.Interfaces", "RelpardyKepler\RelpardyKepler.Interfaces\RelpardyKepler.Interfaces.csproj", "{93725FAF-2C99-4BC9-8A16-516BC80E5DD3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0FF6C72A-DC42-44C6-98D2-552882583952}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0FF6C72A-DC42-44C6-98D2-552882583952}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0FF6C72A-DC42-44C6-98D2-552882583952}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0FF6C72A-DC42-44C6-98D2-552882583952}.Release|Any CPU.Build.0 = Release|Any CPU
+		{93725FAF-2C99-4BC9-8A16-516BC80E5DD3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{93725FAF-2C99-4BC9-8A16-516BC80E5DD3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{93725FAF-2C99-4BC9-8A16-516BC80E5DD3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{93725FAF-2C99-4BC9-8A16-516BC80E5DD3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BFAB7EBC-8412-4439-9718-F97510BDD980}
+	EndGlobalSection
+EndGlobal
